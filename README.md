@@ -3,13 +3,13 @@
 * Date :-         05/09/2023
 * Tool used:-     PostgreSQL
 
-# Introduction:-
+# Introduction:
 * In this project, we will be analyzing restaurant ratings data to gain insights into the performance of various restaurants.
 * We will use SQL to extract, transform and analyze the data.
 * The insights gained from this analysis will be used to understand the factors that influence a restaurant's rating and make recommendations for improvement.
 * We will examine the relationship between different variables such as the location, cuisine and price range of the restaurants and their ratings.
   
-# Data:-
+# Data:
 * Got the dataset from Maven Analytics. Restaurant ratings in Mexico by real consumers from 2012 with 5 CSV Files.
 * Customer Details: The table contains the informations of customer.
 * Customer preference: This table contains customer cuisine preferences.
@@ -17,7 +17,7 @@
 * Restaurant's Cuisine: The table contains cuisines offered by each restaurant.
 * Customer Ratings: This dataset is the main table in the project. It includes information regarding customer ratings.
 
-# Approach:-
+# Approach:
 * Gathered restaurant ratings data from a publicly accessible source and imported it into an SQL database.
 * Employed SQL to refine the data, ensuring it's in an analyzable format. This encompassed tasks like eliminating duplicates, managing missing values, and standardizing data structures.
 * Utilized SQL to retrieve pertinent details from the dataset, such as each restaurant's average rating, review count, and geographical location.
@@ -25,7 +25,7 @@
 * Conducted an in-depth analysis by applying a variety of SQL commands and functions.
 * Leveraged the insights gained from the analysis to formulate improvement recommendations for the restaurants and propose strategies for utilizing the data to inform business decisions.
 
-# SQL Functions Used:-
+# SQL Functions Used:
 * DDL
 * DML
 * Joins
@@ -37,7 +37,7 @@
 * Windows functions
 
 -------------------------------------
-# Key Insights:-
+# Key Insights:
 ## 1. Customer Demographics: 
 ► 62% customers are from "San Luis Potosi".<br>
 ► 70% customers have medium budget & 0.4% customers have high budget.<br>
@@ -63,7 +63,7 @@
 ► There are 293 responses (25%) of customers who gave the highest ratings in all the experiences.
 
 --------------------------------
-# Strategies:-
+# Strategies:
 ⭐ This dataset revealed an average food experience rating of approximately 1.21 out of 2.00, indicating an overall high level of satisfaction among customers. However, there were some restaurants that received 
 poor service ratings. Therefore, it is advisable for these establishments to concentrate on enhancing their service quality.<br>
 ⭐ The majority of highly-rated restaurants are situated in San Luis Potosi, drawing visitors from other areas. There is an opportunity to enhance our food and service offerings in other cities as well.<br>
