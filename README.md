@@ -1,6 +1,6 @@
 * Title :-        **Restaurant Ratings Analysis**
 * Created by :-   Shalinee Sahoo
-* Date :-         04/09/2023
+* Date :-         05/09/2023
 * Tool used:-     PostgreSQL
 
 # Introduction :- 
@@ -10,7 +10,7 @@
 * We will examine the relationship between different variables such as the location, cuisine and price range of the restaurants and their ratings.
   
 # Data :- 
-* We found this dataset from Maven Analytics. Restaurant ratings in Mexico by real consumers from 2012 with 5 CSV Files.
+* Got the dataset from Maven Analytics. Restaurant ratings in Mexico by real consumers from 2012 with 5 CSV Files.
 * Customer Details: The table contains the informations of customer.
 * Customer preference: This table contains customer cuisine preferences.
 * Restaurants: The dataset includes restaurant details.
@@ -64,9 +64,9 @@
 
 --------------------------------
 # Strategies:
-⭐ Our dataset revealed an average food experience rating of approximately 1.21 out of 2.00, indicating an overall high level of satisfaction among customers. However, there were some restaurants that received 
+⭐ This dataset revealed an average food experience rating of approximately 1.21 out of 2.00, indicating an overall high level of satisfaction among customers. However, there were some restaurants that received 
 poor service ratings. Therefore, it is advisable for these establishments to concentrate on enhancing their service quality.<br>
 ⭐ The majority of highly-rated restaurants are situated in San Luis Potosi, drawing visitors from other areas. There is an opportunity to enhance our food and service offerings in other cities as well.<br>
-⭐ Mexican cuisine is the most preffered choise and American cuisine ranks as the second most popular choice among customers, yet the number of restaurants offering this cuisine is limited. There is potential to 
+⭐ Mexican cuisine is the most preferred choise and American cuisine ranks as the second most popular choice among customers, yet the number of restaurants offering this cuisine is limited. There is potential to 
 expand our presence in this market segment.<br>
-⭐ We've noted that students and teenagers tend to have a preference for beverages and smoking. To capture this demographic, we can advice targeted marketing strategies, such as offering special entry or discounts for students.
+⭐ It is noted that students and teenagers tend to have a preference for beverages and smoking. To capture this demographic, It is advisable to target marketing strategies, such as offering special entry or discount for students.
