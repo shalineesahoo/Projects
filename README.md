@@ -1,4 +1,4 @@
-* Title :-        **Restaurant Ratings Analysis**
+* Title :-        **Restaurant Rating Analysis**
 * Created by :-   Shalinee Sahoo
 * Date :-         05/09/2023
 * Tool used:-     PostgreSQL
