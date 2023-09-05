@@ -51,7 +51,7 @@
 ► Most restaurants offer cuisines like Mexican, Bar, Cafeteria, Fast Food, Brewery, Seafood, Burgers.<br>
 ► 18% of restaurants are of High budget, 49% of them are of Medium budget & 33% are low budget.
 
-## 3. Ratings Analysis: 
+## 3. Rating Analysis: 
 ► There are 26 restaurants who received an average overall rating of more than 1.50.<br>
 ► 44% responses from the customers were positive for the food experience.<br>
 ► 22% responses from the customers were negative for overall experience.<br>
